@@ -1,0 +1,357 @@
+1670611438062	geckodriver	INFO	Listening on 127.0.0.1:53104
+1670611441132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53105" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofiletsDo92"
+1670611441673	Marionette	INFO	Marionette enabled
+1670611441678	Marionette	INFO	Listening on port 53121
+WebDriver BiDi listening on ws://127.0.0.1:53105
+Read port: 53121
+1670611441920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofiletsDo92\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53105/devtools/browser/07e8dd6f-66b2-4914-95cb-744ce642765d
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1670612713037	Marionette	INFO	Stopped listening on port 53121
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofileXzWUkp"
+1670611541601	Marionette	INFO	Marionette enabled
+1670611541605	Marionette	INFO	Listening on port 53265
+Read port: 53265
+WebDriver BiDi listening on ws://127.0.0.1:53254
+1670611541702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofileXzWUkp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53254/devtools/browser/27cdae2c-1b14-4904-a74e-a91ea09a8f08
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670612713070	Marionette	INFO	Stopped listening on port 53265
+calhost" "-no-remote" "-profile" "C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofileSDmk0L"
+1670611588096	Marionette	INFO	Marionette enabled
+1670611588100	Marionette	INFO	Listening on port 53352
+Read port: 53352
+WebDriver BiDi listening on ws://127.0.0.1:53340
+1670611588211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofileSDmk0L\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53340/devtools/browser/0a46484c-ff08-4f92-860b-4afa927c09e7
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1670612707508	Marionette	INFO	Stopped listening on port 53352
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofile9DCoxS"
+1670611614327	Marionette	INFO	Marionette enabled
+1670611614330	Marionette	INFO	Listening on port 53430
+Read port: 53430
+WebDriver BiDi listening on ws://127.0.0.1:53416
+1670611614437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofile9DCoxS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53416/devtools/browser/a3aaba17-3c53-4569-8371-c08c2fb0b2ec
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1670612706817	Marionette	INFO	Stopped listening on port 53430
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54467" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofileCXgtVp"
+1670612645424	Marionette	INFO	Marionette enabled
+1670612645428	Marionette	INFO	Listening on port 54481
+WebDriver BiDi listening on ws://127.0.0.1:54467
+Read port: 54481
+1670612645617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofileCXgtVp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54467/devtools/browser/ef2c7144-55ad-452e-ba6d-04bbe000673d
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670612710231	Marionette	INFO	Stopped listening on port 54481
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670612762066	geckodriver	INFO	Listening on 127.0.0.1:54631
+1670612765127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54632" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofilemRFIoI"
+1670612765399	Marionette	INFO	Marionette enabled
+1670612765402	Marionette	INFO	Listening on port 54648
+Read port: 54648
+WebDriver BiDi listening on ws://127.0.0.1:54632
+1670612765506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofilemRFIoI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54632/devtools/browser/36554883-9c2b-4766-8438-1482a1f2a40c
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ijTS4/yj/l/en_US/rrGFt-fhGzu.js?_nc_x=Ij3Wp8lg5Kz, line 26: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKus4/yb/l/makehaste_jhash/5pOsuM0TUi5.js?_nc_x=LF-2xSflz4W, line 146: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+1670612885059	Marionette	INFO	Stopped listening on port 54648
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670612887698	geckodriver	INFO	Listening on 127.0.0.1:54825
+1670612890764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54826" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofile1j70EC"
+1670612891035	Marionette	INFO	Marionette enabled
+1670612891039	Marionette	INFO	Listening on port 54839
+Read port: 54839
+WebDriver BiDi listening on ws://127.0.0.1:54826
+1670612891143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofile1j70EC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54826/devtools/browser/1955d8c5-d11d-4783-8d0b-709ea89ca1ab
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ijTS4/yj/l/en_US/rrGFt-fhGzu.js?_nc_x=Ij3Wp8lg5Kz, line 26: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3inN24/yt/l/makehaste_jhash/ykAaTLsQE8x70zqWmKAJM7xnbRm7vwFh1jIkhkjoj34Kff0RChZZlqPW4Zi3frVWIl-lmBFhCC4wWhsUyFPkJL-nOaB1I4y7u34WVW8x_PevdzGd_3YzPXx7znkht54n4VCh36d1uETfCfWZQllFv7EHEl4QxcTqOt9FbHnWQyL0QuEc3VkpYtb8Lz8DFRhSXO4ojFKeYtOsrRVES.js?_nc_x=LF-2xSflz4W, line 824: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3inN24/yt/l/makehaste_jhash/ykAaTLsQE8x70zqWmKAJM7xnbRm7vwFh1jIkhkjoj34Kff0RChZZlqPW4Zi3frVWIl-lmBFhCC4wWhsUyFPkJL-nOaB1I4y7u34WVW8x_PevdzGd_3YzPXx7znkht54n4VCh36d1uETfCfWZQllFv7EHEl4QxcTqOt9FbHnWQyL0QuEc3VkpYtb8Lz8DFRhSXO4ojFKeYtOsrRVES.js?_nc_x=LF-2xSflz4W, line 824: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3inN24/yt/l/makehaste_jhash/ykAaTLsQE8x70zqWmKAJM7xnbRm7vwFh1jIkhkjoj34Kff0RChZZlqPW4Zi3frVWIl-lmBFhCC4wWhsUyFPkJL-nOaB1I4y7u34WVW8x_PevdzGd_3YzPXx7znkht54n4VCh36d1uETfCfWZQllFv7EHEl4QxcTqOt9FbHnWQyL0QuEc3VkpYtb8Lz8DFRhSXO4ojFKeYtOsrRVES.js?_nc_x=LF-2xSflz4W, line 824: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3inN24/yt/l/makehaste_jhash/ykAaTLsQE8x70zqWmKAJM7xnbRm7vwFh1jIkhkjoj34Kff0RChZZlqPW4Zi3frVWIl-lmBFhCC4wWhsUyFPkJL-nOaB1I4y7u34WVW8x_PevdzGd_3YzPXx7znkht54n4VCh36d1uETfCfWZQllFv7EHEl4QxcTqOt9FbHnWQyL0QuEc3VkpYtb8Lz8DFRhSXO4ojFKeYtOsrRVES.js?_nc_x=LF-2xSflz4W, line 824: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3inN24/yt/l/makehaste_jhash/ykAaTLsQE8x70zqWmKAJM7xnbRm7vwFh1jIkhkjoj34Kff0RChZZlqPW4Zi3frVWIl-lmBFhCC4wWhsUyFPkJL-nOaB1I4y7u34WVW8x_PevdzGd_3YzPXx7znkht54n4VCh36d1uETfCfWZQllFv7EHEl4QxcTqOt9FbHnWQyL0QuEc3VkpYtb8Lz8DFRhSXO4ojFKeYtOsrRVES.js?_nc_x=LF-2xSflz4W, line 824: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3inN24/yt/l/makehaste_jhash/ykAaTLsQE8x70zqWmKAJM7xnbRm7vwFh1jIkhkjoj34Kff0RChZZlqPW4Zi3frVWIl-lmBFhCC4wWhsUyFPkJL-nOaB1I4y7u34WVW8x_PevdzGd_3YzPXx7znkht54n4VCh36d1uETfCfWZQllFv7EHEl4QxcTqOt9FbHnWQyL0QuEc3VkpYtb8Lz8DFRhSXO4ojFKeYtOsrRVES.js?_nc_x=LF-2xSflz4W, line 824: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3inN24/yt/l/makehaste_jhash/ykAaTLsQE8x70zqWmKAJM7xnbRm7vwFh1jIkhkjoj34Kff0RChZZlqPW4Zi3frVWIl-lmBFhCC4wWhsUyFPkJL-nOaB1I4y7u34WVW8x_PevdzGd_3YzPXx7znkht54n4VCh36d1uETfCfWZQllFv7EHEl4QxcTqOt9FbHnWQyL0QuEc3VkpYtb8Lz8DFRhSXO4ojFKeYtOsrRVES.js?_nc_x=LF-2xSflz4W, line 824: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3inN24/yt/l/makehaste_jhash/ykAaTLsQE8x70zqWmKAJM7xnbRm7vwFh1jIkhkjoj34Kff0RChZZlqPW4Zi3frVWIl-lmBFhCC4wWhsUyFPkJL-nOaB1I4y7u34WVW8x_PevdzGd_3YzPXx7znkht54n4VCh36d1uETfCfWZQllFv7EHEl4QxcTqOt9FbHnWQyL0QuEc3VkpYtb8Lz8DFRhSXO4ojFKeYtOsrRVES.js?_nc_x=LF-2xSflz4W, line 824: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3inN24/yt/l/makehaste_jhash/ykAaTLsQE8x70zqWmKAJM7xnbRm7vwFh1jIkhkjoj34Kff0RChZZlqPW4Zi3frVWIl-lmBFhCC4wWhsUyFPkJL-nOaB1I4y7u34WVW8x_PevdzGd_3YzPXx7znkht54n4VCh36d1uETfCfWZQllFv7EHEl4QxcTqOt9FbHnWQyL0QuEc3VkpYtb8Lz8DFRhSXO4ojFKeYtOsrRVES.js?_nc_x=LF-2xSflz4W, line 824: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3inN24/yt/l/makehaste_jhash/ykAaTLsQE8x70zqWmKAJM7xnbRm7vwFh1jIkhkjoj34Kff0RChZZlqPW4Zi3frVWIl-lmBFhCC4wWhsUyFPkJL-nOaB1I4y7u34WVW8x_PevdzGd_3YzPXx7znkht54n4VCh36d1uETfCfWZQllFv7EHEl4QxcTqOt9FbHnWQyL0QuEc3VkpYtb8Lz8DFRhSXO4ojFKeYtOsrRVES.js?_nc_x=LF-2xSflz4W, line 824: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKus4/yb/l/makehaste_jhash/5pOsuM0TUi5.js?_nc_x=LF-2xSflz4W, line 146: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+1670612929738	Marionette	INFO	Stopped listening on port 54839
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670612931932	geckodriver	INFO	Listening on 127.0.0.1:54937
+1670612935014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54938" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofilebYdh7q"
+1670612935278	Marionette	INFO	Marionette enabled
+1670612935281	Marionette	INFO	Listening on port 54949
+WebDriver BiDi listening on ws://127.0.0.1:54938
+Read port: 54949
+1670612935484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofilebYdh7q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54938/devtools/browser/4a0ea0b0-6295-4886-810a-4081d8540dd3
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ijTS4/yj/l/en_US/rrGFt-fhGzu.js?_nc_x=Ij3Wp8lg5Kz, line 26: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKus4/yb/l/makehaste_jhash/5pOsuM0TUi5.js?_nc_x=LF-2xSflz4W, line 146: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+1670612990216	Marionette	INFO	Stopped listening on port 54949
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670612992855	geckodriver	INFO	Listening on 127.0.0.1:55058
+1670612995905	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55059" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofilejFaGnE"
+1670612996173	Marionette	INFO	Marionette enabled
+1670612996177	Marionette	INFO	Listening on port 55071
+WebDriver BiDi listening on ws://127.0.0.1:55059
+Read port: 55071
+1670612996279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofilejFaGnE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55059/devtools/browser/53c7217e-f8c5-416b-9076-63b1dbf091ea
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ijTS4/yj/l/en_US/rrGFt-fhGzu.js?_nc_x=Ij3Wp8lg5Kz, line 26: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670613005880	Marionette	INFO	Stopped listening on port 55071
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+[Parent 27560, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670613049411	geckodriver	INFO	Listening on 127.0.0.1:55159
+1670613052478	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55160" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofileRrJiXJ"
+1670613052748	Marionette	INFO	Marionette enabled
+1670613052751	Marionette	INFO	Listening on port 55171
+Read port: 55171
+WebDriver BiDi listening on ws://127.0.0.1:55160
+1670613052851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofileRrJiXJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55160/devtools/browser/9c94d309-95da-4044-a55d-f81dbbb8b8de
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ijTS4/yj/l/en_US/rrGFt-fhGzu.js?_nc_x=Ij3Wp8lg5Kz, line 26: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670613453381	Marionette	INFO	Stopped listening on port 55171
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55529" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofilePypNQD"
+1670613340072	Marionette	INFO	Marionette enabled
+1670613340076	Marionette	INFO	Listening on port 55544
+Read port: 55544
+WebDriver BiDi listening on ws://127.0.0.1:55529
+1670613340175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofilePypNQD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55529/devtools/browser/28831f2e-4414-4031-a2c0-067b1a81e09d
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ijTS4/yj/l/en_US/rrGFt-fhGzu.js?_nc_x=Ij3Wp8lg5Kz, line 26: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670613453379	Marionette	INFO	Stopped listening on port 55541670613455375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55686" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofilen8Gs5H"
+1670613455642	Marionette	INFO	Marionette enabled
+1670613455646	Marionette	INFO	Listening on port 55699
+WebDriver BiDi listening on ws://127.0.0.1:55686
+Read port: 55699
+1670613455821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofilen8Gs5H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55686/devtools/browser/637bfa91-6105-4895-9c81-b9d405099573
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ijTS4/yj/l/en_US/rrGFt-fhGzu.js?_nc_x=Ij3Wp8lg5Kz, line 26: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKus4/yb/l/makehaste_jhash/5pOsuM0TUi5.js?_nc_x=LF-2xSflz4W, line 146: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1670697623974	Marionette	INFO	Stopped listening on port 55699
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofilebFMeR5"
+1670613597210	Marionette	INFO	Marionette enabled
+1670613597213	Marionette	INFO	Listening on port 49745
+Read port: 49745
+WebDriver BiDi listening on ws://127.0.0.1:49732
+1670613597311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofilebFMeR5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49732/devtools/browser/74e24c88-7685-40f2-8abe-e9ba93a198b1
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ijTS4/yj/l/en_US/rrGFt-fhGzu.js?_nc_x=Ij3Wp8lg5Kz, line 26: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKus4/yb/l/makehaste_jhash/5pOsuM0TUi5.js?_nc_x=LF-2xSflz4W, line 146: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1670697624076	Marionette	INFO	Stopped listening on port 49745
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+mp\\rust_mozprofileBuM2jV"
+1670613919925	Marionette	INFO	Marionette enabled
+1670613919929	Marionette	INFO	Listening on port 50244
+Read port: 50244
+WebDriver BiDi listening on ws://127.0.0.1:50226
+1670613920019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofileBuM2jV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50226/devtools/browser/aa6a83f5-197e-4474-84bc-6a5d6598390d
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ijTS4/yj/l/en_US/rrGFt-fhGzu.js?_nc_x=Ij3Wp8lg5Kz, line 26: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKus4/yb/l/makehaste_jhash/5pOsuM0TUi5.js?_nc_x=LF-2xSflz4W, line 146: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKus4/yb/l/makehaste_jhash/5pOsuM0TUi5.js?_nc_x=LF-2xSflz4W, line 146: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iAZm4/yU/l/makehaste_jhash/ykAaTLsQE8x70zqWmKAJM7xnbRm7vwFh1jIkhkjoj34Kff0RChZZlqPW4Zi3frVWIl-lmBFhCC4wWhsUyFPkJL-nOaB1I4y7u34WVW8x_PevdzGd_3YzPXx7znkht54n4VChZQllFv7EHElY2_lOg_bZbT4QxcTqOt9FbHnWQyL0QuEcPwtyxheSsPp3VkpYtb8Lz8DFRhSXO4ojFKrsjue6qB13KeYtOsrRVES8xDsuLN6Syloo4Snzj6t44y6f8FJJlIfy.js?_nc_x=LF-2xSflz4W, line 824: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iAZm4/yU/l/makehaste_jhash/ykAaTLsQE8x70zqWmKAJM7xnbRm7vwFh1jIkhkjoj34Kff0RChZZlqPW4Zi3frVWIl-lmBFhCC4wWhsUyFPkJL-nOaB1I4y7u34WVW8x_PevdzGd_3YzPXx7znkht54n4VChZQllFv7EHElY2_lOg_bZbT4QxcTqOt9FbHnWQyL0QuEcPwtyxheSsPp3VkpYtb8Lz8DFRhSXO4ojFKrsjue6qB13KeYtOsrRVES8xDsuLN6Syloo4Snzj6t44y6f8FJJlIfy.js?_nc_x=LF-2xSflz4W, line 824: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1670697624056	Marionette	INFO	Stopped listening on port 50244
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 35028, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+nette	INFO	Marionette enabled
+1670614095942	Marionette	INFO	Listening on port 50518
+Read port: 50518
+WebDriver BiDi listening on ws://127.0.0.1:50506
+1670614096026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofileVMUKoE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50506/devtools/browser/2375b146-6867-41b7-83e2-e4bfd9d2be79
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ijTS4/yj/l/en_US/rrGFt-fhGzu.js?_nc_x=Ij3Wp8lg5Kz, line 26: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3if8t4/yp/l/en_US/9_oOwSD1Bhj.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3if8t4/yp/l/en_US/9_oOwSD1Bhj.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3if8t4/yp/l/en_US/9_oOwSD1Bhj.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3if8t4/yp/l/en_US/9_oOwSD1Bhj.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3if8t4/yp/l/en_US/9_oOwSD1Bhj.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3if8t4/yp/l/en_US/9_oOwSD1Bhj.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3if8t4/yp/l/en_US/9_oOwSD1Bhj.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3if8t4/yp/l/en_US/9_oOwSD1Bhj.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1670697624126	Marionette	INFO	Stopped listening on port 50518
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofileA0KBUZ"
+1670614392177	Marionette	INFO	Marionette enabled
+1670614392183	Marionette	INFO	Listening on port 50884
+Read port: 50884
+WebDriver BiDi listening on ws://127.0.0.1:50873
+1670614392289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofileA0KBUZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50873/devtools/browser/e3611061-4c94-4727-9086-e70602f37588
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ijTS4/yj/l/en_US/rrGFt-fhGzu.js?_nc_x=Ij3Wp8lg5Kz, line 26: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3if8t4/yp/l/en_US/9_oOwSD1Bhj.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3if8t4/yp/l/en_US/9_oOwSD1Bhj.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3if8t4/yp/l/en_US/9_oOwSD1Bhj.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3if8t4/yp/l/en_US/9_oOwSD1Bhj.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3if8t4/yp/l/en_US/9_oOwSD1Bhj.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3if8t4/yp/l/en_US/9_oOwSD1Bhj.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3if8t4/yp/l/en_US/9_oOwSD1Bhj.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3if8t4/yp/l/en_US/9_oOwSD1Bhj.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670614446009	Marionette	INFO	Stopped listening on port 50884
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670624061825	geckodriver	INFO	Listening on 127.0.0.1:53573
+1670624064860	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53574" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofileGKsYYX"
+1670624065247	Marionette	INFO	Marionette enabled
+1670624065253	Marionette	INFO	Listening on port 53584
+Read port: 53584
+WebDriver BiDi listening on ws://127.0.0.1:53574
+1670624065391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofileGKsYYX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53574/devtools/browser/d07956dc-15ef-4d55-9391-e383fc0f0a28
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ijTS4/yj/l/en_US/rrGFt-fhGzu.js?_nc_x=Ij3Wp8lg5Kz, line 26: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670624082212	Marionette	INFO	Stopped listening on port 53584
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670624196464	geckodriver	INFO	Listening on 127.0.0.1:53684
+1670624199517	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53685" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofileUYDFPo"
+1670624199859	Marionette	INFO	Marionette enabled
+1670624199864	Marionette	INFO	Listening on port 53695
+WebDriver BiDi listening on ws://127.0.0.1:53685
+Read port: 53695
+1670624200117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\twitter\\AppData\\Local\\Temp\\rust_mozprofileUYDFPo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53685/devtools/browser/a436131a-b948-4906-a679-b1b83134a98e
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ijTS4/yj/l/en_US/rrGFt-fhGzu.js?_nc_x=Ij3Wp8lg5Kz, line 26: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3if8t4/yp/l/en_US/9_oOwSD1Bhj.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3if8t4/yp/l/en_US/9_oOwSD1Bhj.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3if8t4/yp/l/en_US/9_oOwSD1Bhj.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3if8t4/yp/l/en_US/9_oOwSD1Bhj.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3if8t4/yp/l/en_US/9_oOwSD1Bhj.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3if8t4/yp/l/en_US/9_oOwSD1Bhj.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y_/l/en_US/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3if8t4/yp/l/en_US/9_oOwSD1Bhj.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3if8t4/yp/l/en_US/9_oOwSD1Bhj.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1670697624002	Marionette	INFO	Stopped listening on port 53695
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
